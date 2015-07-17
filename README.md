@@ -11,7 +11,7 @@ Requirements: ```npm install underscore```
 ```javascript
 import Remoji from 'remoji.js.jsx'; // Wherever you place the file..
 
-<Remoji name='snake' />  // will print out :snake:
+<Remoji name='snake' />
 ```
 
 
