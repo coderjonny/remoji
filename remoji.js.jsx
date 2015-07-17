@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'underscore';
 
-export default class Emoji extends React.Component {
+export default class Remoji extends React.Component {
   constructor(props){
     super(props);
     this.props = {
@@ -26,7 +26,7 @@ export default class Emoji extends React.Component {
 
 }
 
-Emoji.propTypes = {
+Remoji.propTypes = {
   name: React.PropTypes.string
 }
 
