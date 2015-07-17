@@ -1,4 +1,4 @@
-# ``` <Remoji />```
+# ``` <Remoji />``` 🐰🐱🐍🐢🐴🐑🐔🐤🐸🐬🐳🐙🐠🐟🐨🐻
 React Emoji Components
 
 You can use emojis in your apps!
