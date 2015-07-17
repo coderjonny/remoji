@@ -1,4 +1,4 @@
-# <Remoji /> :honeybee: :hatched_chick: :snake:
+# Remoji :honeybee: :hatched_chick: :snake:
 React Emoji Components
 
 You can use emojis in your apps!
