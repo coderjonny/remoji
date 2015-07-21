@@ -17,5 +17,5 @@ import Remoji from 'remoji.js.jsx'; // Wherever you place the file..
 
 
 ## TODO:
-Put this in a node module so it's easier to install.. ```npm install remoji```
-Use a cdn option: http://www.tortue.me/
+- Put this in a node module so it's easier to install.. ```npm install remoji```
+- Use a cdn option: http://www.tortue.me/
